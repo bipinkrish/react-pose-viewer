@@ -1,0 +1,40 @@
+{
+  "name": "react-pose",
+  "version": "1.0.0",
+  "description": "React library for viewing, augmenting, and handling .pose files",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bipinkrish/react-pose.git"
+  },
+  "keywords": [
+    "pose",
+    "sign",
+    "viewer"
+  ],
+  "author": "bipin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bipinkrish/react-pose/issues"
+  },
+  "homepage": "https://github.com/bipinkrish/react-pose#readme",
+  "devDependencies": {
+    "@types/node": "^22.5.5",
+    "@types/react": "^18.3.7",
+    "typescript": "^5.6.2"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "dependencies": {
+    "@stencil/react-output-target": "^0.7.1",
+    "pose-format": "^1.5.1",
+    "pose-viewer": "github:SignBridgeApp/pose-all#js-viewer"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "jsx": "react",
+    "strict": true,
+    "outDir": "dist",
+    "module": "esnext",
+    "declaration": true,
+    "esModuleInterop": true,
+    "moduleResolution": "bundler",
+    "forceConsistentCasingInFileNames": true,
+  }
+}
