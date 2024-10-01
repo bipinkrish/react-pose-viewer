@@ -1,7 +1,7 @@
 {
-  "name": "react-pose",
-  "version": "1.0.0",
-  "description": "React library for viewing, augmenting, and handling .pose files",
+  "name": "react-pose-viewer",
+  "version": "1.0.1",
+  "description": "React library for viewing .pose files",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bipinkrish/react-pose.git"
+    "url": "git+https://github.com/bipinkrish/react-pose-viewer.git"
   },
   "keywords": [
     "pose",
@@ -21,9 +21,9 @@
   "author": "bipin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bipinkrish/react-pose/issues"
+    "url": "https://github.com/bipinkrish/react-pose-viewer/issues"
   },
-  "homepage": "https://github.com/bipinkrish/react-pose#readme",
+  "homepage": "https://github.com/bipinkrish/react-pose-viewer#readme",
   "devDependencies": {
     "@types/node": "^22.5.5",
     "@types/react": "^18.3.7",

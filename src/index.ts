@@ -1,1 +1,2 @@
-export { PoseViewer } from "./PoseViewer";
+import { PoseViewer } from "./PoseViewer";
+export default PoseViewer;
