@@ -9,7 +9,7 @@
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",
-    "example": "cd example && npm i && npm run start"
+    "example": "cd example && npm i && npm run dev"
   },
   "repository": {
     "type": "git",
