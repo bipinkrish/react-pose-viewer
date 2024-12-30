@@ -1,6 +1,6 @@
 {
   "name": "react-pose-viewer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React library for viewing .pose files",
   "main": "dist/index.js",
   "files": [
@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@stencil/react-output-target": "^0.7.1",
-    "pose-format": "^1.5.1",
-    "pose-viewer": "github:SignBridgeApp/pose-all#js-viewer"
+    "pose-format": "^1.6.0",
+    "pose-viewer": "1.0.0"
   }
 }
