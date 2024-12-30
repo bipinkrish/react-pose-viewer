@@ -1,6 +1,6 @@
 {
   "name": "react-pose-viewer",
-  "version": "1.0.3",
+  "version": "1.0.32",
   "description": "React library for viewing .pose files",
   "main": "dist/index.js",
   "files": [
@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "build": "tsc",
+    "prepare": "npm run build",
     "example": "cd example && npm i && npm run start"
   },
   "repository": {
